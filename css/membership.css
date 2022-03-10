@@ -19,7 +19,6 @@ fieldset {
 }
 
 .member {
-    width: 1600px;
     height: 590px;
 }
 
@@ -104,4 +103,13 @@ ul.indexMenu {
     font-size: 11px;
     color: black;
     z-index: 12;
+}
+
+#birthday-year {
+    width: 50px;
+}
+
+textarea {
+    background: #f6f6f6;
+    resize: none;
 }
